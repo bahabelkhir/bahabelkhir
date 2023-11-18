@@ -1,10 +1,11 @@
+![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs)
 # Hi there, I'm Bahaeddine Belkhir 👋
 
 ## About Me
 
 I'm a passionate data analyst/scientist who loves transforming raw data into meaningful insights. Possesing a background in programming knowledges , I thrive on uncovering patterns, solving complex problems, and deriving actionable conclusions from data.
 
-## Work
+## Quest Objective:
 
 🔭 In pursuit of an end-of-study internship within the captivating realm of data within a dynamic data ecosystem, absorbing knowledge like a sponge and contributing fresh perspectives. From wrangling datasets to crafting predictive models, every challenge embraced as an opportunity to learn and innovate.
 
@@ -59,4 +60,4 @@ Adaptable, collaborative, and fueled by an insatiable appetite for problem-solvi
 
 
 
-Feel free to reach out for a chat or collaboration!
+Reach out, and let's create some data magic together! 🚀✨"
