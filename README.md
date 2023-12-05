@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a passionate data analyst/scientist who loves transforming raw data into meaningful insights. Possesing a background in programming knowledges , I thrive on uncovering patterns, solving complex problems, and deriving actionable conclusions from data.
+I'm a passionate data analyst/scientist who loves transforming raw data into meaningful insights. Possesing a background in programming languages , I thrive on uncovering patterns, solving complex problems, and deriving actionable conclusions from data.
 
 ## Quest Objective:
 
