@@ -7,7 +7,7 @@ I'm a passionate data analyst/scientist who loves transforming raw data into mea
 
 ## Quest Objective:
 
-🔭 In pursuit of an end-of-study internship within the captivating realm of data within a dynamic data ecosystem, absorbing knowledge like a sponge and contributing fresh perspectives. From wrangling datasets to crafting predictive models, every challenge embraced as an opportunity to learn and innovate.
+🔭 In pursuit of an apprenticeship or an internship within the captivating realm of data within a dynamic data ecosystem, absorbing knowledge like a sponge and contributing fresh perspectives. From wrangling datasets to crafting predictive models, every challenge embraced as an opportunity to learn and innovate.
 
 🔑 **Key Attributes:**
 Adaptable, collaborative, and fueled by an insatiable appetite for problem-solving. Adept at translating complex data intricacies into actionable insights, communicating findings that steer strategic decisions.
